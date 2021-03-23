@@ -35,6 +35,7 @@
             </intent-filter>
         </activity>
 
+
         <!-- AdMobが使うActivityを定義する -->
         <activity android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
